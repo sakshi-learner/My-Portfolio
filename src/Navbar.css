@@ -1,0 +1,12 @@
+.Navbar{
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: inline;
+    display: flex; 
+    background-color:#F3D0D7 ;
+}
+
+.Img{
+   
+}

@@ -1,0 +1,32 @@
+.btn{
+    border: 1px solid black;
+    border-radius: 40px;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.btn:hover{
+    background-color:#F3D0D7 ;
+    box-shadow: 1px 0 1px 1px;
+}
+
+.ContactMe{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.gmail{
+    margin-left: 30%;
+    color: rgb(5, 5, 10);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+   background-color: rgba(236, 175, 196, 0.384);
+   
+}

@@ -1,0 +1,18 @@
+.Skill{
+    border: 1px solid black;
+   border-radius: 10px;
+   opacity: 0.8;
+   background-color: #f0ebe3;
+   margin: 20px;
+}
+
+
+.Skill:hover{
+   opacity: 1;
+   text-shadow: 2px,2px black;
+   text-decoration:underline;
+   text-decoration-color:  #f3d0d7;
+   box-shadow: 3px 0 3px 0;
+}
+
+
