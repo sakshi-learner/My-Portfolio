@@ -20,7 +20,7 @@ function ContactMe(){
            
            </div>
            {
-            showBtn &&  <p className="gmail">Contact Me by Gmail: sakshees846@gmail.com</p>
+            showBtn &&  <p className="gmail">Mail Me: sakshees846@gmail.com</p>
            }
         </>
     );

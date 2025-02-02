@@ -13,7 +13,7 @@ function About(){
            <Stack direction="row" spacing={2}>
            <Avatar
            alt="Remy Sharp"
-           src="https://media.licdn.com/dms/image/v2/D5603AQGsCOaWRNewjg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729875637423?e=1737590400&v=beta&t=GIGt8TiokqtliD-ALXrOecj9ppKYtsAQJqt4Jz-1riI"
+           src="https://media.licdn.com/dms/image/v2/D5603AQEDTRBNwRsu-g/profile-displayphoto-shrink_200_200/B56ZPdDtFuG4AY-/0/1734580558092?e=1744243200&v=beta&t=PYyEjYbJkzmBKH2x2lUCEOUvCNnr_niJ9wtyDqXDKBQ"
            sx={{ width: 100, height: 100 }}
            />
            </Stack>
