@@ -140,7 +140,7 @@ function Skill(){
         </div>
 
        <div className="Skill">
-            <h4> JavaScript <i class="fa-brands fa-java"></i> </h4>
+            <h4> JavaScript </h4>
             <Box sx={{ width: 300 }}>
             <Slider
               style={{color: "black" ,margin:"10px"}}
