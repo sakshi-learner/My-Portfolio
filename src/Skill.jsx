@@ -153,7 +153,7 @@ function Skill(){
            </Box>
             <ul>
                 <li> i have done its fundamental part like classification and regrassion , clustering </li>
-                <li> done the project loan prediction , and crop price prediction along with research paper </li>
+                <li> done the project loan prediction </li>
                 <li> continuously working on it </li>
             </ul>
         </div>
