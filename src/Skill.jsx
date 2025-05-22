@@ -139,6 +139,44 @@ function Skill(){
             </ul>
         </div>
 
+       <div className="Skill">
+            <h4> JavaScript <i class="fa-brands fa-java"></i> </h4>
+            <Box sx={{ width: 300 }}>
+            <Slider
+              style={{color: "black" ,margin:"10px"}}
+              size="small"
+              disabled defaultValue={70}
+              aria-label="Small"
+              valueLabelDisplay="auto"
+             
+            />
+           </Box>
+            <ul>
+                <li>programming learn for makeing website dynamic </li>
+                <li>fundamental strong</li>
+                <li>competable solutions </li>
+            </ul>
+        </div>
+
+        <div className="Skill">
+            <h4> MySQL <i class="fa-brands fa-java"></i> </h4>
+            <Box sx={{ width: 300 }}>
+            <Slider
+              style={{color: "black" ,margin:"10px"}}
+              size="small"
+              disabled defaultValue={70}
+              aria-label="Small"
+              valueLabelDisplay="auto"
+             
+            />
+           </Box>
+            <ul>
+                <li>queries and subqueries handle efficienty</li>
+                <li>first with database</li>
+                
+            </ul>
+        </div>
+
         <div className="Skill">
             <h4> Machine Learning </h4>
             <Box sx={{ width: 300 }}>
