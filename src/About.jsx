@@ -11,11 +11,11 @@ function About(){
          
            <div className="content"> 
            <Stack direction="row" spacing={2}>
-           <Avatar
+           {/* <Avatar
            alt="Remy Sharp"
            src="D:\portfolio\Sakshi\src\image.jpg"
            sx={{ width: 100, height: 100 }}
-           />
+           /> */}
            </Stack>
            <div>
            <h4>Sakshi Singh </h4>
