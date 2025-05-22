@@ -24,6 +24,7 @@ function Skill(){
             </ul>
         </div>
 
+
         <div className="Skill">
             <h4> React JS <i class="fa-brands fa-react"></i> </h4>
             <Box sx={{ width: 300 }}>
@@ -39,7 +40,7 @@ function Skill(){
             <ul>
                 <li>i work in 3 projects of React and learn more about hooks props and states</li>
                 <li>certified MERN stack devloper this portfoilo is live example of my experince </li>
-                <li>great learings and competable solutions</li>
+                <li>great learnings and competable solutions</li>
             </ul>
         </div>
 
@@ -57,8 +58,8 @@ function Skill(){
            </Box>
             <ul>
                 <li>i work in 3 projects of Mongo DB and learn more about Mongo atlas queries and agragation </li>
-                <li>i am continewusly working on Mongo DB </li>
-                <li>great learings and competable solutions</li>
+                <li>i am continuously working on it and find solutions</li>
+                <li>great learnings and competable solutions</li>
             </ul>
         </div>
 
@@ -77,7 +78,7 @@ function Skill(){
             <ul>
                 <li>i work in 3 projects of node js  </li>
                 <li>i am very comfortable work with Node js and find solutions</li>
-                <li>great learings with this npm package</li>
+                <li>great learnings with npm package</li>
             </ul>
         </div>
 
@@ -96,7 +97,7 @@ function Skill(){
             <ul>
                 <li>i work in 3 projects of express js  </li>
                 <li>i am very comfortable work with express js and find solutions</li>
-                <li>great learings with this npm package</li>
+                <li>great learning with npm package</li>
             </ul>
         </div>
 
@@ -114,7 +115,7 @@ function Skill(){
            </Box>
             <ul>
                 <li>i work in many projects of HTML 5  </li>
-                <li>tish is my first step toward web devloper and find solutions</li>
+                <li>this is my first step toward web devloper and find solutions</li>
                 <li>work in it and enjoy while creating pages</li>
             </ul>
         </div>
@@ -137,6 +138,87 @@ function Skill(){
                 <li>work in it and enjoy while styling pages</li>
             </ul>
         </div>
+
+        <div className="Skill">
+            <h4> Machine Learning </h4>
+            <Box sx={{ width: 300 }}>
+            <Slider
+              style={{color: "black",margin:"10px" }}
+              size="small"
+              disabled defaultValue={70}
+              aria-label="Small"
+              valueLabelDisplay="auto"
+             
+            />
+           </Box>
+            <ul>
+                <li> i have done its fundamental part like classification and regrassion , clustering </li>
+                <li> done the project loan prediction , and crop price prediction along with research paper </li>
+                <li> continuously working on it </li>
+            </ul>
+        </div>
+        
+        <div className="Skill">
+            <h4> R programmig </h4> 
+            <Box sx={{ width: 300 }}>
+            <Slider
+              style={{color: "black",margin:"10px" }}
+              size="small"
+              disabled defaultValue={70}
+              aria-label="Small"
+              valueLabelDisplay="auto"
+             
+            />
+           </Box>
+            <ul>
+                <li> i have learned R for data anlysis and continuously working on it </li>
+                <li> Certified R programmer </li>
+            </ul>
+        </div>
+
+
+        <div className="Skill">
+            <h4> Python </h4> 
+            <Box sx={{ width: 300 }}>
+            <Slider
+              style={{color: "black",margin:"10px" }}
+              size="small"
+              disabled defaultValue={50}
+              aria-label="Small"
+              valueLabelDisplay="auto"
+             
+            />
+           </Box>
+            <ul>
+                <li> i have learn Python for machine learning so i have basic knowledge of it </li>
+                <li>currently working on its project </li>
+            
+            </ul>
+        </div>
+
+       
+
+        <div className="Skill">
+            <h4> Soft Skills</h4>
+            <Box sx={{ width: 300 }}>
+            <Slider
+              style={{color: "black",margin:"10px" }}
+              size="small"
+              disabled defaultValue={90}
+              aria-label="Small"
+              valueLabelDisplay="auto"
+             
+            />
+           </Box>
+            <ul>
+                <li> MS excel  </li>
+                <li> MS word </li>
+                <li> MS powerpoint </li>
+                <li>fast learner</li>
+                <li>good in cooperation and team work</li>
+            </ul>
+        </div>
+
 
         </>
     )

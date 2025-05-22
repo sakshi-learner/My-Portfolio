@@ -1,5 +1,4 @@
 import "./Projects.css";
-
 import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
@@ -34,7 +33,7 @@ function Projects(){
           </Typography>
           </CardContent>
           <CardActions>
-          <Button size="small">View Project</Button>
+         <Button size="small">View Project</Button>
           </CardActions>
        </Card>
 
@@ -51,11 +50,11 @@ function Projects(){
         />
           <CardContent  className="CardContent">
           <Typography gutterBottom variant="h5" component="div">
-          Krishi Star
+          Loan Eligibility prediction
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
          
-         <i><b> Technologies:</b></i>"React , material UI , MongoDB , expressJS, NodeJs, JavaScript ,Machine Learning APIs...
+         <i><b> Technologies:</b></i>"React , material UI ,Machine Learning ,python libraries ,node js...
          <i> <b> description:</b></i>  A forming tools renting website with AI chatBot 
          <i> <b>  feture:</b></i> good UI, Map functionality, responsive and simple. 
           
@@ -170,6 +169,8 @@ function Projects(){
           </CardActions>
        </Card> 
        </div>
+
+       <p> AND MANY MORE ...</p>
 
       </>
      
