@@ -13,7 +13,7 @@ function About(){
            <Stack direction="row" spacing={2}>
            <Avatar
            alt="Remy Sharp"
-           src="https://www.linkedin.com/in/sakshee-singh-38ba48272/"
+           src="D:\portfolio\Sakshi\src\image.jpg"
            sx={{ width: 100, height: 100 }}
            />
            </Stack>

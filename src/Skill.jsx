@@ -173,7 +173,6 @@ function Skill(){
             <ul>
                 <li>queries and subqueries handle efficienty</li>
                 <li>first with database</li>
-                
             </ul>
         </div>
 
