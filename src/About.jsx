@@ -15,7 +15,7 @@ function About(){
            <h4>Sakshi Singh </h4>
            <h6>Hello...</h6>
             <p className="info">  In the field of  software Engineering continuously enhance my skills, With innovative problem-solving, I transform ideas into seamless user experiences.
-                Chack out My Profile, May your goals meets my skills.
+                Check out My Profile, May your goals meets my skills.
             </p>
             <i>Thanks for Visiting... < FavoriteIcon /></i> 
            </div>
