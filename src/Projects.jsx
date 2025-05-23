@@ -46,7 +46,7 @@ function Projects(){
         component="img"
         alt="green iguana"
         height="140"
-        image="https://media.istockphoto.com/id/1151784210/photo/ripe-rice-field-and-sky-background-at-sunset.jpg?s=612x612&w=0&k=20&c=DZz4wxIbPXnMhmoTsEV06uYKup9MEZTtRFe2XkDb0mY="
+        image="https://images.moneycontrol.com/static-mcnews/2022/11/1de-636x435.jpg?impolicy=website&width=1600&height=900"
         />
           <CardContent  className="CardContent">
           <Typography gutterBottom variant="h5" component="div">
@@ -55,8 +55,8 @@ function Projects(){
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
          
          <i><b> Technologies:</b></i>"React , material UI ,Machine Learning ,python libraries ,node js...
-         <i> <b> description:</b></i>  A forming tools renting website with AI chatBot 
-         <i> <b>  feture:</b></i> good UI, Map functionality, responsive and simple. 
+         <i> <b> description:</b></i>  a web based machine learning model which predict Eligibility for loan
+         <i> <b>  feture:</b></i> good UI, responsive and simple. 
           
          
           </Typography>
