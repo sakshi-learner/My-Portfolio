@@ -16,7 +16,7 @@ function ContactMe(){
     return(
         <>
            <div className="ContactMe">
-           <button className="btn" onClick={onBtn}>Contanct Me</button>
+           <button className="btn" onClick={onBtn}>Contact Me</button>
            
            </div>
            {
