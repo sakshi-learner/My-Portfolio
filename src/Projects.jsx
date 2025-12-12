@@ -5,12 +5,15 @@ import CardMedia from '@mui/material/CardMedia';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import CardActions from '@mui/material/CardActions';
-
+import { Link } from 'react-router-dom';
 
 function Projects(){
   return(
       
       <>
+        <div className="bg-white h-screen w-full">
+
+       
         <div className="Container ">
          
          <Card sx={{ maxWidth: 345 }}   className="Card" >
@@ -33,7 +36,11 @@ function Projects(){
           </Typography>
           </CardContent>
           <CardActions>
-         <Button size="small">View Project</Button>
+         <Button 
+         size="small"
+         onClick={() => window.open("https://github.com/sakshi-learner/backend", "_blank")}
+         > View Project
+         </Button>
           </CardActions>
        </Card>
 
@@ -62,7 +69,11 @@ function Projects(){
           </Typography>
           </CardContent>
           <CardActions>
-          <Button size="small">View Project</Button>
+          <Button 
+         size="small"
+         onClick={() => window.open("https://github.com/sakshi-learner/Loan-Eligibility-", "_blank")}
+         > View Project
+         </Button>
           </CardActions>
        </Card>
 
@@ -85,7 +96,11 @@ function Projects(){
           </Typography>
           </CardContent>
           <CardActions>
-          <Button size="small">View Project</Button>
+           <Button 
+         size="small"
+         onClick={() => window.open("https://github.com/sakshi-learner/Weather-App", "_blank")}
+         > View Project
+         </Button>
           </CardActions>
        </Card> 
        </div>
@@ -113,7 +128,11 @@ function Projects(){
           </Typography>
           </CardContent>
           <CardActions>
-          <Button size="small">View Project</Button>
+           <Button 
+         size="small"
+         onClick={() => window.open("https://github.com/sakshi-learner/", "_blank")}
+         > View Project
+         </Button>
           </CardActions>
        </Card>
 
@@ -142,7 +161,11 @@ function Projects(){
           </Typography>
           </CardContent>
           <CardActions>
-          <Button size="small">View Project</Button>
+           <Button 
+         size="small"
+         onClick={() => window.open("https://github.com/sakshi-learner/jokker", "_blank")}
+         > View Project
+         </Button>
           </CardActions>
        </Card>
 
@@ -165,13 +188,17 @@ function Projects(){
           </Typography>
           </CardContent>
           <CardActions>
-          <Button size="small">View Project</Button>
+          <Button 
+         size="small"
+         onClick={() => window.open("https://github.com/sakshi-learner/", "_blank")}
+         > View Project
+         </Button>
           </CardActions>
        </Card> 
        </div>
 
-       <p> AND MANY MORE ...</p>
-
+       <p> And many more ...</p>
+       </div>
       </>
      
 

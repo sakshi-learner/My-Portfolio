@@ -4,8 +4,8 @@ import "./Skill.css";
 function Skill(){
     return(
         <>
-       
-        <div className="Skill">
+        <div className='bg-white h-screen w-full p-4'>
+        <div className="Skill ">
             <h4> Java <i class="fa-brands fa-java"></i> </h4>
             <Box sx={{ width: 300 }}>
             <Slider
@@ -255,7 +255,7 @@ function Skill(){
                 <li>good in cooperation and team work</li>
             </ul>
         </div>
-
+        </div>
 
         </>
     )
