@@ -6,7 +6,7 @@ function Education(){
     return(
         <>
       
-        <div className="Education h-screen w-full p-4">
+        <div className="Education h-screen w-full p-4 flex justify-center">
             <div className="EduCard">
                <h3><i>Bachelor of Technology (CS)</i></h3>
                <h5> &nbsp; From : Shri Ram institute of science and technology Jabalpur</h5> 

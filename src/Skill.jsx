@@ -4,7 +4,7 @@ import "./Skill.css";
 function Skill(){
     return(
         <>
-        <div className='bg-white h-screen w-full p-4'>
+        <div className='bg-white p-4 flex flex-wrap'>
         <div className="Skill ">
             <h4> Java <i class="fa-brands fa-java"></i> </h4>
             <Box sx={{ width: 300 }}>
