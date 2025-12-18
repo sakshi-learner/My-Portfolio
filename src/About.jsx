@@ -7,7 +7,7 @@ function About(){
 
     return(
         <>
-       <div className="About w-full h-screen p-4">
+       <div className="About w-full h-screen p-4 flex ">
            
            <div className="content"> 
           
@@ -17,7 +17,7 @@ function About(){
             <p className="info">  In the field of  software Engineering continuously enhance my skills, With innovative problem-solving, I transform ideas into seamless user experiences.
                 Check out My Profile, May your goals meets my skills.
             </p>
-            <span>Intern At The ENTREPRENEURSHIP NETWORK </span>
+            <span> Intern At <i>The ENTREPRENEURSHIP NETWORK  </i></span><br/>
             <i>Thanks for Visiting... < FavoriteIcon /></i> 
            </div>
            </div>

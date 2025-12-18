@@ -25,7 +25,7 @@ function App() {
   </div>
   <div>
     <marquee width="100%" direction="Left" height="40px" loop ="3">
-     "The true measure of success is not just in what you achiveve, but also in how you impact others Positively.."
+     "The true measure of success is not just in what you achieve, but also in how you impact others Positively you impact others.."
      </marquee>
   </div>
   
